@@ -17,8 +17,7 @@ Thank you for considering the QA Engineer role at Planable. Please follow the st
    - Deleting items
 9. Write tests that fail due to the bugs you identified in step 2. If you found more than three bugs, prioritize the top three.
 10. Commit these tests to your repository.
-
-11. Finally, open a pull request to the original repository with your changes.
+11. Finally, open a pull request to the your private repo with your changes, so that I can review them .
 
 Best of luck, and we look forward to hearing from you!
 
