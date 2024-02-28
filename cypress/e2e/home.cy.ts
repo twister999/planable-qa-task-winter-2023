@@ -60,7 +60,7 @@ describe('testing Alex mega duper puper app', () => {
     cy.get('body').type('{enter}')
   })
 
-  it.only('editing item and saving it by clicking Enter on Keyboard - should NOT fail', () => {
+  it('editing item and saving it by clicking Enter on Keyboard - should NOT fail', () => {
     cy.get('.w-full').type('sample product')
     cy.get('body').type('{enter}')
     cy.get('g#edit').click({ force: true })
